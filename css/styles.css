@@ -1,0 +1,156 @@
+/*********************************************/
+body{
+    color:#40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.footer-link{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color:white;
+}
+.top-container{
+    background-color: aquamarine;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top:100px ;
+    position: relative;
+}
+
+.middle-container{
+    margin:100px 0;
+
+}
+
+.bottom-container{
+   background-color: #66BFBF;
+   
+   color:#EAF6F6;
+   line-height: 2;
+   padding: 50px 0 20px;
+}
+
+h1{ 
+    font-size: 5.26rem;
+    margin-top: 0 auto 0;
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+
+    position: absolute;
+    right: 300px;
+    top:40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:250px;
+    bottom:300px;
+}
+
+.profile-img{
+    height: 200px;
+    width: 200px;
+}
+
+.computer-img{
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-img{
+    width:20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.programer{
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+}
+
+.footer-link{
+    color:#11999E;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile{
+    text-align: center;
+    width:30%;
+    margin: 10px auto 10px auto;
+   
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color:lightsteelblue;
+    width: 10%;
+
+}
+
+.contact-me{
+    text-align: center;
+    width:30%;
+    margin: 10px auto 10px auto;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:12px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 10px;
+    text-decoration:none;
+    margin-top: 50px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+    font-size: 0.7rem;
+    padding:20px 0;
+}
