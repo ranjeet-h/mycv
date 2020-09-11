@@ -154,3 +154,13 @@ hr{
     font-size: 0.7rem;
     padding:20px 0;
 }
+
+a{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+}
+
+a:hover{
+    text-decoration: underline;
+}
